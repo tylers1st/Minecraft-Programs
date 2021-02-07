@@ -1,0 +1,1 @@
+/tellraw @a {"text":"HEY! You there! Why are you stealing MY diamonds??","color":"#F000FF","clickEvent":{"action":"run_command","value":"/me Whoah I'm not stealing your diamond......Uhhh...Who are you?"}}
