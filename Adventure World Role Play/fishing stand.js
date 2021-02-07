@@ -1,0 +1,1 @@
+/summon minecraft:armor_stand -253.53 64.00 -145.34 {HandItems:[{Count:1,id:fishing_rod,tag:{Enchantments:[{}]}}],ShowArms:1,Pose:{RightArm:[200F,0F,0F]},Rotation:[0f,0f],NoBasePlate:1,DisabledSlots:2039583,Invulnerable:1}
