@@ -1,7 +1,8 @@
 /data merge entity @e[type=villager,limit=1,distance=..3]
 
 {Offers:
-	{Recipes:[
+	{Recipes:
+	[
 		{
 			buy:{id:iron_ore,Count:25},
 			sell:{id:iron_pickaxe,Count:1,tag:{CanDestroy:["minecraft:gold_ore"],Damage:237}}
@@ -21,5 +22,6 @@
 									[
 										'{"text":"Helm of Blacksmith Albert\'s friend","color":"dark_aqua","italic":"false"}'
 									]}}}
-		}]
+		}
+	 ]
 	},CustomName:"{\"text\":\"Blacksmith Albert\"}"}
